@@ -50,4 +50,4 @@
  ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-purnimakumarirai
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-purnimakumarirai&layout=compact&theme=vision-friendly-dark)](https://github.com/purnimakumarirai/github-readme-stats)
