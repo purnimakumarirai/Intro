@@ -23,3 +23,11 @@
                                                                                                 ---
 
 ### :woman_technologist: About Me :
+                                                                                                
+- :telescope: I’m working as a Software Engineer and contributing to develope web applications.
+
+- :seedling: Exploring Programming languages.
+
+- :zap: In my free time, I code and read books.
+
+- :mailbox:How to reach me: {https://www.linkedin.com/in/purnima-rai-5668b1186/}
