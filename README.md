@@ -46,4 +46,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40"    height="40"/>&nbsp;
  </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purnimakumarirai&layout=compact&theme=vision-friendly-dark]     (https://github.com/purnimakumarirai/github-readme-stats)
+ 
+ ---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-purnimakumarirai
